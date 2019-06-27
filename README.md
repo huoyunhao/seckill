@@ -196,8 +196,7 @@ SELECT @r_result;
 
 #  Github&&Blog地址
 [Github](https://github.com/ayhyh/seckill.git)
-[Blog]([https://www.jianshu.com/p/1d52ee68cc4d](https://www.jianshu.com/p/1d52ee68cc4d)
-)
+[Blog]([https://www.jianshu.com/p/1d52ee68cc4d](https://www.jianshu.com/p/1d52ee68cc4d))
 
 
 
